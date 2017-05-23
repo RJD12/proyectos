@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\alumno\Desktop\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\alumno\Desktop\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\alumno\Desktop\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\alumno\Desktop\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\alumno\Desktop\proyecto\proyecto\obj\Debug\proyecto.pdb
